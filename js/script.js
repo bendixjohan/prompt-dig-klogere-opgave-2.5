@@ -71,7 +71,7 @@ console.log(animalInfo);
 //    elementet i HTML'en.
 
 // ✏️ Skriv din kode her ↓
-const infoboxElement = document.getElementById("inforbpx");
+const infoboxElement = document.getElementById("inforbox");
 
 // ------------------------------------------------------------------
 // STEP 3: Funktion der viser infoboksen
